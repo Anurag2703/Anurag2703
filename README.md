@@ -38,6 +38,8 @@ Its well said that:
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Anurag2703 alt=Anurag2703/></p>
 
 <strong>Cheers to life!</strong>
+<p align="center">
+ <img src=https://icongr.am/devicon/c-original.svg?size=133&color=ffffff alt=C width="40" height="40"/>
  <img src=https://icongr.am/devicon/cplusplus-plain.svg?size=128&color=0e77b9 alt=C++ width="40" height="40"/>
  <img src=https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor alt=css3 width="40" height="40"/> 
  <img src=https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor alt=html5 width="40" height="40"/> 

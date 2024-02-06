@@ -48,7 +48,8 @@ Its well said that:
  <img src=https://icongr.am/devicon/git-original.svg?size=128&color=currentColor alt=Git width="50" height="50"/>
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
- <img src=https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor alt=vs-code width="50" height="50"/></p>
+ <img src=https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=03820b alt=vs-code width="50" height="50"/></p>
+ <img src=https://icongr.am/devicon/nodejs-original.svg?size=103&color=03820b alt=vs-code width="50" height="50"/></p>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag2703&theme=algolia&show_icons=true" alt="Anurag2703" />
 </div>
 

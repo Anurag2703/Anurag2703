@@ -9,7 +9,6 @@
 <!-- Hi!👋 I am <b>Anurag Panda</b><br> -->
 🎓 I’m a junior pursuing my bachelor's in Computer Science & Engineering.<br>
 👩‍💻I am passionate about Web Dev & problem-solving. I enjoy learning new things, exploring new technologies and leverage them to solve real-life problems.<br>
-😄 Pronouns: He/His<br>
 💞️ I’m looking to collaborate on projects in Web Development.<br>
 :heart: Open Source. <br>
 ✏️ I love playing musical instruments, Piano and Guitar to name a few. <br>
